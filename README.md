@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Geo&size=27&duration=4000&pause=500&width=435&lines=Hi+there+%F0%9F%91%8B+i'm+Gerson.;Welcome+to+my+profile!+%F0%9F%98%81)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Geo&size=28&duration=4000&pause=500&width=550&lines=Hi+there+%F0%9F%91%8B+i'm+Gerson.;Welcome+to+my+profile!+%F0%9F%98%81)
+
 ## About Me 
 <p align="left">
 I'm a Computer Science student, passionate about technology and eager to grow in my professional career. I have technical skills such as advanced English, a strong focus on customer success, and experience in creating websites using  HTML5 and CSS3. My goal is to combine my passion for technology with the desire to provide outstanding customer experiences.
@@ -23,9 +24,7 @@ I'm a Computer Science student, passionate about technology and eager to grow in
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
-
-<br>
-<br>
+---
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonMMN&layout=compact&hide_border=true&title_color=F0F0F0&text_color=F2A341&bg_color=0d1117"/> 
 
