@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Geo&size=30&duration=4000&pause=500&width=435&lines=Hi+there+%F0%9F%91%8B+i'm+Gerson.;Welcome+to+my+profile!+%F0%9F%98%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Geo&size=27&duration=4000&pause=500&width=435&lines=Hi+there+%F0%9F%91%8B+i'm+Gerson.;Welcome+to+my+profile!+%F0%9F%98%81)](https://git.io/typing-svg)
 ## About Me 🥸
 <p align="left">
 I'm a Computer Science student, passionate about technology and eager to grow in my professional career. I have technical skills such as advanced English, a strong focus on customer success, and experience in creating websites using  HTML5 and CSS3. My goal is to combine my passion for technology with the desire to provide outstanding customer experiences.
@@ -17,11 +17,12 @@ I'm a Computer Science student, passionate about technology and eager to grow in
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<imd scr="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>          
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jquery-%23323330?style=for-the-badge&logo=jquery&logoColor=34a4eb"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+
 
 <br>
 <br>
