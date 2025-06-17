@@ -3,12 +3,10 @@
 <p align="left">
 I'm a Computer Science student, passionate about technology and eager to grow in my professional career. I have technical skills such as advanced English, a strong focus on customer success, and experience in creating websites using  HTML5 and CSS3. My goal is to combine my passion for technology with the desire to provide outstanding customer experiences.
 </p>
-<br>
 
 ### Follow me to know me better
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerson-mesquita-1bb467260/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gersonmsqt/)
-<br>
 <br>
 
 ## Skills 🦾🧠
