@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Geo&size=27&duration=4000&pause=500&width=435&lines=Hi+there+%F0%9F%91%8B+i'm+Gerson.;Welcome+to+my+profile!+%F0%9F%98%81)](https://git.io/typing-svg)
-## About Me 🥸
+## About Me 
 <p align="left">
 I'm a Computer Science student, passionate about technology and eager to grow in my professional career. I have technical skills such as advanced English, a strong focus on customer success, and experience in creating websites using  HTML5 and CSS3. My goal is to combine my passion for technology with the desire to provide outstanding customer experiences.
 </p>
