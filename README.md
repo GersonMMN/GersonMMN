@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Geo&size=25&duration=4000&pause=500&width=435&lines=Hi+there+%F0%9F%91%8B+i'm+Gerson.;Welcome+to+my+profile!+%F0%9F%98%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Geo&size=30&duration=4000&pause=500&width=435&lines=Hi+there+%F0%9F%91%8B+i'm+Gerson.;Welcome+to+my+profile!+%F0%9F%98%81)](https://git.io/typing-svg)
 ## About Me 🥸
 <p align="left">
 I'm a Computer Science student, passionate about technology and eager to grow in my professional career. I have technical skills such as advanced English, a strong focus on customer success, and experience in creating websites using  HTML5 and CSS3. My goal is to combine my passion for technology with the desire to provide outstanding customer experiences.
@@ -23,9 +23,10 @@ I'm a Computer Science student, passionate about technology and eager to grow in
 <img src="https://img.shields.io/badge/Jquery-%23323330?style=for-the-badge&logo=jquery&logoColor=34a4eb"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 
----
+<br>
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GersonMMN&layout=compact&hide_border=true&title_color=f0f0f0&text_color=F2A341&bg_color=0d1117)          
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonMMN&layout=compact&hide_border=true&title_color=F0F0F0&text_color=F2A341&bg_color=0d1117"/> 
 
 </div>
 
