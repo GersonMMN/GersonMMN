@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Geo&size=28&duration=4000&pause=500&width=550&lines=Hi+there+%F0%9F%91%8B+i'm+Gerson.;Welcome+to+my+profile!+%F0%9F%91%BE)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Geo&size=28&duration=4000&pause=500&width=550&lines=Hello,+World!+%F0%9F%91%8B+i'm+Gerson.;Welcome+to+my+profile!+%F0%9F%91%BE)
 
 ## About Me 
 <p align="left">
