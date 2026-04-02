@@ -22,7 +22,9 @@ I'm a Computer Science student, passionate about technology and eager to grow in
   <img src="https://img.shields.io/badge/Jquery-%23323330?style=for-the-badge&logo=jquery&logoColor=34a4eb"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+
+  ---
 </div>
----
+
 <img src="https://raw.githubusercontent.com/GersonMMN/GersonMMN/output/snake.svg" alt="Snake animation"/>
 
