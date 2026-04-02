@@ -25,7 +25,6 @@ I'm a Computer Science student, passionate about technology and eager to grow in
 
 ---
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonMMN&layout=compact&hide_border=true&title_color=F0F0F0&text_color=F2A341&bg_color=0d1117"/> 
 
 </div>
 
