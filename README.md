@@ -24,7 +24,9 @@ I'm a Computer Science student, passionate about technology and eager to grow in
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
 ---
+<img src="https://raw.githubusercontent.com/sterreis/sterreis/output/snake.svg" alt="Snake animation" />
 
+###
 
 </div>
 
